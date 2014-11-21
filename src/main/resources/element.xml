@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>TestElement</name>
+    <main>com.legendzero.exploration.testelement.TestElement</main>
+</root>
